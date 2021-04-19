@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\WFprinterTest\WFprinterTest\bin\Debug\WFprinterTest.exe.config
+C:\Users\user\source\repos\WFprinterTest\WFprinterTest\bin\Debug\WFprinterTest.exe
+C:\Users\user\source\repos\WFprinterTest\WFprinterTest\bin\Debug\WFprinterTest.pdb
+C:\Users\user\source\repos\WFprinterTest\WFprinterTest\obj\Debug\WFprinterTest.csprojAssemblyReference.cache
+C:\Users\user\source\repos\WFprinterTest\WFprinterTest\obj\Debug\WFprinterTest.Form1.resources
+C:\Users\user\source\repos\WFprinterTest\WFprinterTest\obj\Debug\WFprinterTest.Properties.Resources.resources
+C:\Users\user\source\repos\WFprinterTest\WFprinterTest\obj\Debug\WFprinterTest.csproj.GenerateResource.cache
+C:\Users\user\source\repos\WFprinterTest\WFprinterTest\obj\Debug\WFprinterTest.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WFprinterTest\WFprinterTest\obj\Debug\WFprinterTest.exe
+C:\Users\user\source\repos\WFprinterTest\WFprinterTest\obj\Debug\WFprinterTest.pdb
